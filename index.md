@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## James Morris's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -14,11 +14,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
-- List
-- Nachos
-- Pizza
+- TAs seem cool 
+- Labs are in Lawson which is a plus
+- More CS stuff which is always cool to learn
+- Doesn't seem like its too difficult to get an A if you show up and do your stuff
 
 1. Numbered
 2. List
