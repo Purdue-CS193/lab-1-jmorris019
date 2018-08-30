@@ -2,7 +2,7 @@
 - TAs seem cool 
 - Labs are in Lawson which is a plus
 - More CS stuff which is always cool to learn
-- Doesn't seem like its too difficult to get an A if you show up and do your stuff
+- Doesn't seem like its too difficult to get an A if you show up and do your stuff 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
