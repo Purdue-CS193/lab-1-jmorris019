@@ -17,9 +17,12 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Nachos
+- Pizza
 
 1. Numbered
 2. List
+3. More Points
 
 **Bold** and _Italic_ and `Code` text
 
