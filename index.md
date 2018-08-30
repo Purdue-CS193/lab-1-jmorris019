@@ -25,7 +25,7 @@ Syntax highlighted code block
 3. More Points
 
 **Bold** and _Italic_ and `Code` text
-
+**Boiler Up**
 [Link](url) and ![Image](src)
 ```
 
